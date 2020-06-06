@@ -1,0 +1,1 @@
+# minomo_resonsive
